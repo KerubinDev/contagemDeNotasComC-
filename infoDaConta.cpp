@@ -9,7 +9,7 @@ struct CustomerAccount {
     string lastTransaction;
 };
 
-// Função fictícia para obter os dados da conta do cliente
+// Função para obter os dados da conta do cliente
 CustomerAccount getCustomerAccountData() {
     // Suponha que aqui haja código para obter os dados da conta do cliente
     // Por simplicidade, vou criar alguns dados fictícios
