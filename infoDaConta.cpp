@@ -11,8 +11,7 @@ struct CustomerAccount {
 
 // Função para obter os dados da conta do cliente
 CustomerAccount getCustomerAccountData() {
-    // Suponha que aqui haja código para obter os dados da conta do cliente
-    // Por simplicidade, vou criar alguns dados fictícios
+    
     CustomerAccount account;
     account.accountNumber = "123456789";
     account.balance = 5000.0;
